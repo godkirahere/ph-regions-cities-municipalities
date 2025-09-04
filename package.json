@@ -1,0 +1,31 @@
+{
+  "name": "ph-regions-cities-municipalities",
+  "version": "0.1.0",
+  "description": "Philippines regions & cities / municipalities mapping in TypeScript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "philippines",
+    "locations",
+    "states",
+    "cities",
+    "typescript"
+  ],
+  "author": "montecassino",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montecassino/ph-regions-cities-municipalities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/montecassino/ph-regions-cities-municipalities/issues"
+  },
+  "homepage": "https://github.com/montecassino/ph-regions-cities-municipalities#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
