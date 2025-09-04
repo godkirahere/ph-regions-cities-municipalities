@@ -5777,7 +5777,7 @@ const locations: Locations = {
     PH694200000: [
       {
         id: 1510,
-        name: "Malabon",
+        name: "Malabon City",
       },
       {
         id: 15440,
